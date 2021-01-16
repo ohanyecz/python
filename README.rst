@@ -27,6 +27,7 @@ A következő táblázat azt tartalmazza, hogy melyik anyagrész melyik notebook
 +---------------------+-------------+------------------+
 
 Főbb források:
+
 - `Python dokumentáció <https://docs.python.org/3/>`_
 - `The Python Standard Library <https://docs.python.org/3/library/index.html>`_
 - `The Python Language Reference <https://docs.python.org/3/reference/index.html>`_
