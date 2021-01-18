@@ -4,8 +4,6 @@ Python
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/ohanyecz/python/HEAD
 
-**Fontos**: ez a repository folyamatos fejlesztés alatt van, a változások mindenféle figyelmeztetés nélkül történnek!
-
 
 Ez a repository azokat a Jupyter notebookokat tartalmazza, amiből a Pythont tanítom.
 
