@@ -10,6 +10,7 @@ Python
 Ez a repository azokat a Jupyter notebookokat tartalmazza, amiből a Pythont tanítom.
 
 Két fő részre van bontva:
+
 - az *ures* nevű mappában a kitöltendő helyek üresen vannak hagyva, így együtt tudunk haladni az anyaggal
 - a *teljes* nevű mappában az üres helyes ki vannak töltve, hogy visszanézhető legyen, hogy mi is történik
 
@@ -26,7 +27,7 @@ A következő táblázat azt tartalmazza, hogy melyik anyagrész melyik notebook
 +---------------------+-------------+------------------+
 | Logikai kifejezések | 03_üres_    | 03_teljes_       |
 +---------------------+-------------+------------------+
-| Elágazás, ciklus    | -           | -                |
+| Elágazás, ciklus    | 04_üres_    | 04_teljes_       |
 +---------------------+-------------+------------------+
 | Adatstruktúrák      | 05_üres_    | 05_teljes_       |
 +---------------------+-------------+------------------+
@@ -45,5 +46,7 @@ Főbb források:
 .. _02_teljes: teljes/02-Stringek.ipynb
 .. _03_üres: ures/03-Logikai-kifejezesek.ipynb
 .. _03_teljes: teljes/03-Logikai-kifejezesek.ipynb
+.. _04_üres: ures/04-A-program-vezerlese.ipynb
+.. _04_teljes: teljes/04-A-program-vezerlese.ipynb
 .. _05_üres: ures/05-Adatstrukturak.ipynb
 .. _05_teljes: teljes/05-Adatstrukturak.ipynb
