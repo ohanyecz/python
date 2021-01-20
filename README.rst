@@ -29,6 +29,8 @@ A következő táblázat azt tartalmazza, hogy melyik anyagrész melyik notebook
 +---------------------+-------------+------------------+
 | Adatstruktúrák      | 05_üres_    | 05_teljes_       |
 +---------------------+-------------+------------------+
+| Függvények          | 06_üres_    | 06_teljes_       |
++---------------------+-------------+------------------+
 
 Főbb források:
 
@@ -48,3 +50,5 @@ Főbb források:
 .. _04_teljes: teljes/04-A-program-vezerlese.ipynb
 .. _05_üres: ures/05-Adatstrukturak.ipynb
 .. _05_teljes: teljes/05-Adatstrukturak.ipynb
+.. _06_üres: ures/06-Fuggvenyek.ipynb
+.. _06_teljes: teljes/06-Fuggvenyek.ipynb
