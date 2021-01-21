@@ -33,6 +33,8 @@ A következő táblázat azt tartalmazza, hogy melyik anyagrész melyik notebook
 +---------------------+-------------+------------------+
 | Modulok, import     | 07_üres_    | 07_teljes_       |
 +---------------------+-------------+------------------+
+| Input/Output        | 08_üres_    | 08_teljes_       |
++---------------------+-------------+------------------+
 
 Főbb források:
 
@@ -56,3 +58,5 @@ Főbb források:
 .. _06_teljes: teljes/06-Fuggvenyek.ipynb
 .. _07_üres: ures/07-Modulok-Import.ipynb
 .. _07_teljes: teljes/07-Modulok-Import.ipynb
+.. _08_üres: ures/08-Input-Output.ipynb
+.. _08_teljes: teljes/08-Input-Output.ipynb
